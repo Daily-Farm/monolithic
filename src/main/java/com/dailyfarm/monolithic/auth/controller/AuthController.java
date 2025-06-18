@@ -1,6 +1,6 @@
-package com.dailyfarm.monolithic.controller;
+package com.dailyfarm.monolithic.auth.controller;
 
-import com.dailyfarm.monolithic.dto.*;
+import com.dailyfarm.monolithic.auth.dto.*;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.dailyfarm.monolithic.dto;
+package com.dailyfarm.monolithic.auth.dto;
 
 import lombok.Data;
 
