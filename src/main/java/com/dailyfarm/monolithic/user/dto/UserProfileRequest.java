@@ -5,6 +5,7 @@ import lombok.Data;
 @Data
 public class UserProfileRequest {
 
+    private final Long userId;
     private final String phone;
     private final double latitude;
     private final double longitude;
